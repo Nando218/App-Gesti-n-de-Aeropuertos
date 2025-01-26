@@ -16,12 +16,19 @@ Once you have the script imported, you can compile and run the application. The 
 
 The following images show the application in action:
 
-(https://github.com/user-attachments/assets/409d9d46-bc49-4ea7-9305-722e85a06cb8)
+
+![SC1](https://github.com/user-attachments/assets/840ba4e5-5d7f-4d4a-997e-46cf5f0ab27e)
 
 
 (![SC2](https://github.com/user-attachments/assets/761a792c-1b18-45ae-b072-6ddfd81ee164))
 
-(https://github.com/user-attachments/assets/13d1fca0-6d6b-4c05-95cd-a655ce74bc3b)
+![SC3](https://github.com/user-attachments/assets/656faea3-b346-45b3-93d5-56c88f062b55)
 
-(https://github.com/user-attachments/assets/bcd8be2f-6d04-4c2d-905d-fe2a92664d79)
+![SC5](https://github.com/user-attachments/assets/45a93500-447c-47e7-a33c-fa04e2abb537)
+
+
+
+
+
+
 
