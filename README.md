@@ -16,12 +16,13 @@ Once you have the script imported, you can compile and run the application. The 
 
 The following images show the application in action:
 
-![Tab to create airports](ScreenCaptureForGitRepo/SC1.png)
+![Tab to create airports](ScreenCaptureForGitRepo/SC1.png)![SC1](https://github.com/user-attachments/assets/409d9d46-bc49-4ea7-9305-722e85a06cb8)
 
-![Tab to create flights](ScreenCaptureForGitRepo/SC2.png)
 
-![Tab to create passengers](ScreenCaptureForGitRepo/SC3.png)
+![Tab to create flights](![SC2](https://github.com/user-attachments/assets/e8a5d4ad-83dc-4b7c-9315-0f61332b837d))
 
-![Tab to manage flights](ScreenCaptureForGitRepo/SC5.png)
+![Tab to create passengers](![SC3](https://github.com/user-attachments/assets/33f1e30f-9843-413a-bdc1-4864e864fcc4))
+
+![Tab to manage flights](![SC5](https://github.com/user-attachments/assets/0d1aabb0-012b-4acd-8540-921026c6fad6))
 
 
