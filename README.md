@@ -19,10 +19,9 @@ The following images show the application in action:
 ![Tab to create airports](ScreenCaptureForGitRepo/SC1.png)![SC1](https://github.com/user-attachments/assets/409d9d46-bc49-4ea7-9305-722e85a06cb8)
 
 
-![Tab to create flights](![SC2](https://github.com/user-attachments/assets/e8a5d4ad-83dc-4b7c-9315-0f61332b837d))
+![Tab to create flights](ScreenCaptureForGitRepo/SC2.png)![SC1](![SC2](https://github.com/user-attachments/assets/761a792c-1b18-45ae-b072-6ddfd81ee164))
 
-![Tab to create passengers](![SC3](https://github.com/user-attachments/assets/33f1e30f-9843-413a-bdc1-4864e864fcc4))
+![Tab to create passengers](ScreenCaptureForGitRepo/SC3.png)![SC1]![SC3](https://github.com/user-attachments/assets/13d1fca0-6d6b-4c05-95cd-a655ce74bc3b)
 
-![Tab to manage flights](![SC5](https://github.com/user-attachments/assets/0d1aabb0-012b-4acd-8540-921026c6fad6))
-
+![Tab to manage flights](ScreenCaptureForGitRepo/SC5.png)![SC1]![SC5](https://github.com/user-attachments/assets/bcd8be2f-6d04-4c2d-905d-fe2a92664d79)
 
