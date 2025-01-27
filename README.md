@@ -20,7 +20,7 @@ The following images show the application in action:
 ![SC1](https://github.com/user-attachments/assets/840ba4e5-5d7f-4d4a-997e-46cf5f0ab27e)
 
 
-(![SC2](https://github.com/user-attachments/assets/761a792c-1b18-45ae-b072-6ddfd81ee164))
+(![SC2](https://github.com/user-attachments/assets/761a792c-1b18-45ae-b072-6ddfd81ee164)
 
 ![SC3](https://github.com/user-attachments/assets/656faea3-b346-45b3-93d5-56c88f062b55)
 
